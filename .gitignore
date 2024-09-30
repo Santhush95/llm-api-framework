@@ -1,0 +1,5 @@
+# ignore ALL env files
+*env*
+
+# ignore ALL files in ANY directory named temp
+temp/
